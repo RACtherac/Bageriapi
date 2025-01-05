@@ -1,0 +1,6 @@
+@Bageriapi_HostAddress = http://localhost:5099
+
+GET {{Bageriapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
